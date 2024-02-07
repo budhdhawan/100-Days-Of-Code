@@ -1,4 +1,4 @@
-
+//finding the index of the first unique character in a string
 
 class Solution {
     public int firstUniqChar(String s) {
